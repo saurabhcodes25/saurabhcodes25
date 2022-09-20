@@ -15,7 +15,7 @@ Location: India
 OS: Arch Linux 
 Learning: DSA,Bash,JavaScript,React
 Interests: Competitive Programming,Linux,Web Dev
-Hobbies: Gaming,Movies & Music
+Hobbies: Gaming,Watching Movies
 ```
 <!-- <br></br> -->
 
