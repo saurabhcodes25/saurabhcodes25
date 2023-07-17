@@ -19,7 +19,7 @@ Tech Stack: MERN
 
 
 
-
+<!--
 ```bash
 > Tech Stack
 
@@ -75,5 +75,4 @@ Tech Stack: MERN
 																	
 <!--        <a href="https://twitter.com/"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter-circled.png"/></a> -->
 </p>
-
 
