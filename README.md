@@ -5,17 +5,18 @@
 ```
 
 
-<img align="left" src="assets/vaporwave2.jpeg" width="200px" height="180px"/>
+<img align="left" src="assets/vaporwave2.jpeg" width="200px" height="150px"/>
 
 ```kotlin
-saurabhcodes25@github
+👨‍💻 saurabhcodes25@github:
 ----------------------
-Pursuing: Bachelors in Computer Science
-Location: India
-OS: Arch Linux
-Tech Stack: MERN
+🖥️ CS Major
+🐧 Arch Linux
+⚛️ MERN Stack
 ```
-<!-- <br></br> -->
+
+
+
 
 
 
@@ -47,8 +48,6 @@ Tech Stack: MERN
 
 
 
-
-
 ```bash
 > GitHub Analytics
 ```
@@ -59,20 +58,19 @@ Tech Stack: MERN
 
 
 
-
-<!-- 
 ```bash
 > Connect with Me
-``` -->
+``` 
 <p align="center">
 		 
-<!-- 	<a href="https://www.linkedin.com/in/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> -->
+<!-- 	<a href="https://www.linkedin.com/in/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> 
 
-<!-- 	<a href="https://www.instagram.com/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a> -->
+	<a href="https://www.instagram.com/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 
-<!--         <a href="mailto:"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a> -->
+        <a href="mailto:"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a> 
 																	
 																	
-<!--        <a href="https://twitter.com/"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter-circled.png"/></a> -->
+     <a href="https://twitter.com/"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter-circled.png"/></a> 
 </p>
 
+-->
