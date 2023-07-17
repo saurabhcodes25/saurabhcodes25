@@ -12,10 +12,8 @@ saurabhcodes25@github
 ----------------------
 Pursuing: Bachelors in Computer Science
 Location: India
-OS: Arch Linux 
-Learning: DSA,Bash,JavaScript,React
-Interests: Competitive Programming,Linux,Web Dev
-Hobbies: Gaming,Watching Movies
+OS: Arch Linux
+Tech Stack: MERN
 ```
 <!-- <br></br> -->
 
